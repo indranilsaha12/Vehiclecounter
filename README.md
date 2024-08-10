@@ -17,3 +17,8 @@ To run this project, you need to have Python installed along with the required l
    ```bash
    git clone https://github.com/yourusername/vehicle-detection-counting.git
    cd vehicle-detection-counting
+
+ ## Project Output
+
+ ![Output](Output.gif)
+
